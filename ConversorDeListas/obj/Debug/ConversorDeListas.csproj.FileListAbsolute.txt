@@ -1,0 +1,8 @@
+C:\Users\lpeix\source\repos\ConversorDeListas\ConversorDeListas\bin\Debug\ConversorDeListas.exe.config
+C:\Users\lpeix\source\repos\ConversorDeListas\ConversorDeListas\bin\Debug\ConversorDeListas.exe
+C:\Users\lpeix\source\repos\ConversorDeListas\ConversorDeListas\bin\Debug\ConversorDeListas.pdb
+C:\Users\lpeix\source\repos\ConversorDeListas\ConversorDeListas\obj\Debug\ConversorDeListas.csproj.AssemblyReference.cache
+C:\Users\lpeix\source\repos\ConversorDeListas\ConversorDeListas\obj\Debug\ConversorDeListas.csproj.SuggestedBindingRedirects.cache
+C:\Users\lpeix\source\repos\ConversorDeListas\ConversorDeListas\obj\Debug\ConversorDeListas.csproj.CoreCompileInputs.cache
+C:\Users\lpeix\source\repos\ConversorDeListas\ConversorDeListas\obj\Debug\ConversorDeListas.exe
+C:\Users\lpeix\source\repos\ConversorDeListas\ConversorDeListas\obj\Debug\ConversorDeListas.pdb
